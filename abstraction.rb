@@ -12,6 +12,8 @@ class Calculate
         area_one + area_two + area_three
     end
 
+    private
+    
     def area_one
         @b1/2 * @h1
     end
